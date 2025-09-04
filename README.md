@@ -1,3 +1,5 @@
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
+
 <!-- Ultra Modern Professional Header -->
 
 <p align="center">
