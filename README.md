@@ -1,5 +1,3 @@
-![Profile banner](https://i.imgur.com/VNP2tTx.gif)
-
 <!-- Ultra Modern Professional Header -->
 
 <p align="center">
@@ -181,3 +179,5 @@
     <strong class="gradient-text">Keep Coding, Keep Innovating!</strong>
   </div>
 </div>
+
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
