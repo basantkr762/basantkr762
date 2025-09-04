@@ -1,6 +1,50 @@
-# 💫 About Me:
-👋 I’m **Basant Kumar**, a B.Tech CSE student passionate about AI, full-stack development, and building innovative tech solutions.
+<!-- Ultra Modern Professional Header -->
 
+<p align="center">
+  <img src="https://github.com/basantkr762.png" width="200" style="border-radius:50 %; border: 6 px solid #00C4CC; box-shadow: 0 px 8 px 35 px rgba (0, 196, 204, 0.6);" alt="Basant Kumar"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A66C2,100:00C4CC&text=👋%20Welcome%20to%20Basant%20Kumar's%20Universe&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=AI%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Innovator&descAlignY=60&descAlign=50" alt="Header Banner"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=700&color=00C4CC&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;AI+%26+ML+Explorer;Full-Stack+Developer+(React+%7C+Django+%7C+Next.js);Passionate+about+Building+Modern+Tech+Solutions;Always+Learning+%7C+Always+Creating" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <a href="https://basant1-basantkr762s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/basantkr762">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:basantkr762@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/basantkr762/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=basantkr762&theme=dark&data=followers,repositories,stars,commits" alt="Profile Stats"/>
+</p>
+
+
+## 👨‍💻 About Me  
+
+- 🎓 I’m **Basant Kumar**, a **B.Tech CSE student** driven by curiosity and innovation.  
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
+- 🌟 Love to **design and build modern applications** that solve real-world problems.  
+- 📚 Currently exploring **AI-powered solutions** and **scalable web applications**.  
+- 🎯 Goal: To become a **leading AI/ML engineer** and create impactful products.  
+
+🌐 **Check out my Portfolio:** [basant1-basantkr762s-projects.vercel.app](https://basant1-basantkr762s-projects.vercel.app/)  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/basant-kumar-6a4909124) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/basantkr762) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/StormSea4606) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24881352) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BasantK72049334) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Basant-Kumar-the-bashful) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basantkr762@gmail.com) 
@@ -19,3 +63,121 @@
 [![](https://visitcount.itsvg.in/api?id=basantkr762&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Add some HTML with animation classes --><div align="center"><!-- Floating element example --><img class="floating" src="https://api.iconify.design/mdi:code-braces.svg?color=%236366F1" alt="code icon" width="80" height="80"><!-- Pulsing element example --><div class="pulse" style="margin: 20px 0;"> <img src="https://api.iconify.design/mdi:brain.svg?color=%238B5CF6" alt="AI icon" width="60" height="60"> </div><!-- Glowing element example --><div class="glow" style="display: inline-block; padding: 10px 20px; border-radius: 50px; margin: 10px;"> <strong>Basant Innovating with Code & AI</strong> </div></div> 
+<!-- Advanced Footer Section -->
+<br>
+<br>
+
+---
+
+## 🎯 Let's Connect & Collaborate
+
+<div align="center">
+
+### 🌟 **"Code is poetry, and together we can create masterpieces"** 🌟
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Animated Footer Cards -->
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="mailto:basantkr762@gmail.com">
+        <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
+        <br>
+        <sup><b>Email Me</b></sup>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://linkedin.com/in/basant-kumar-6a4909124">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+        <br>
+        <sup><b>Connect</b></sup>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/basantkr762">
+        <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+        <br>
+        <sup><b>Follow</b></sup>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://stackoverflow.com/users/24881352">
+        <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="40" height="40"/>
+        <br>
+        <sup><b>Ask Me</b></sup>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- GitHub Profile Views Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=basantkr762&label=Profile%20Views&color=blueviolet&style=flat" alt="basantkr762" /> 
+</p>
+
+<!-- GitHub Stats Footer -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basantkr762&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=basantkr762&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Random Developer Joke -->
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="README Jokes"></a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<!-- Footer Badges -->
+<img src="https://img.shields.io/badge/From-India-blue?style=for-the-badge&logo=google-earth&logoColor=white" alt="From India">
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" alt="Made with Markdown">
+<img src="https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-blue?style=for-the-badge" alt="Open Source">
+
+<br>
+<br>
+
+<!-- Floating Animation -->
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="40" alt="Coding"> 
+**Thanks for visiting my profile!** 
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="40" alt="Coding">
+
+<br>
+<br>
+
+<!-- Quote -->
+> ### "First, solve the problem. Then, write the code." - John Johnson
+
+</div>
+
+<!-- Animated Elements -->
+<div align="center">
+  <br>
+  <div class="float-animation">
+    <img src="https://img.icons8.com/color/96/000000/source-code.png" width="40" alt="Code">
+  </div>
+  <div class="pulse">
+    <img src="https://img.icons8.com/color/96/000000/hearts.png" width="40" alt="Love Coding">
+  </div>
+  <div class="glow" style="display: inline-block; padding: 10px 20px; border-radius: 50px; margin: 10px;">
+    <strong class="gradient-text">Keep Coding, Keep Innovating!</strong>
+  </div>
+</div>
